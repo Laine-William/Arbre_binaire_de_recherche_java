@@ -1,5 +1,4 @@
 // Une classe pour créer un arbre binaire de recherche
-
 public class ArbreBinaireRecherche {
     /**
      * l'élément courant qui va permettre de parcourir l'arbre
