@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Random;
 
-public class TestArbreBinaireRecherche {
+public class Test {
     public static void main(String[] args) {
 
         ArbreBinaireRecherche arbre=new ArbreBinaireRecherche();
