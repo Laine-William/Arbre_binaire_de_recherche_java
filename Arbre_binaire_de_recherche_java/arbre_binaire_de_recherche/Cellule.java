@@ -1,5 +1,5 @@
 // Classe  pour créer les noeuds d'un arbre bibaire de recherche
-    private class Cellule extends ArbreBinaireRecherche {
+    public class Cellule extends ArbreBinaireRecherche {
         /** le contenu d'un noeud
          */
         Element contenu ; // contenu d'une cellule
